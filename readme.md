@@ -1,4 +1,6 @@
 
+This is the implementation of SGd sequential and mini-batch SGD sequential form.
+
 By implementing stochastic gradient descent, I evaluate the effects of
 choosing different learning rates, batch sizes and sampling schemes on the error rate and runtime. Overall,
 I discovered that (1) while the runtime of each algorithm varies, implementing different sampling schemes
